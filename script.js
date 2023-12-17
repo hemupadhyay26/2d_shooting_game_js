@@ -12,7 +12,7 @@ collisionCanvas.height = window.innerHeight;
 
 let ravens = [];
 let timeToNextRaven = 0;
-let ravenInterval = 300;
+let ravenInterval = 400;
 let lastTime = 0;
 let score = 0;
 let gameOver = 3;
